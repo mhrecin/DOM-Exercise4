@@ -1,0 +1,13 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#snacks{
+    border-color: lightgrey;
+    background-color: lightgrey;
+    display: flex;
+    border-style: outset;
+}
